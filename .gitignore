@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+instance/*.db
+.pytest_cache/
+.DS_Store
+*.png
+!app/static/images/.gitkeep
